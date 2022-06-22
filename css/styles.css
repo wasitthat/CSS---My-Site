@@ -1,0 +1,59 @@
+div {
+
+}
+head{
+  font-family: 'Baloo Tamma 2', cursive;
+}
+body {
+  background-color: #B8C5D6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 30px;
+}
+
+h1 {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 50px;
+  margin-top: 0;
+}
+h3{
+font-family: 'Baloo Tamma 2', cursive;
+font-size: 30px;
+
+}
+
+.top {
+
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  display:none;
+}
+
+.bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  display:none;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  left: 125px;
+}
