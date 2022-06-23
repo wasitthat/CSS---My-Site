@@ -1,0 +1,108 @@
+div {
+
+}
+head{
+  font-family: 'Baloo Tamma 2', cursive;
+  color: #11999E;
+}
+body {
+  background-color: #B8C5D6;
+  margin: 0;
+  color:#66BFBF;
+  text-align: center;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 20px;
+}
+hr{
+  background-color: #B8C5D6;
+  border-color: gray;
+  border-style: dotted none none none;
+  border-width: 6px;
+  width: 10%;
+  height: 0px;
+
+}
+p{
+  color:#11999E;
+  margin:10px auto 10px auto;
+}
+
+h1 {
+  font-family: 'Reenie Beanie', cursive;
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 50px auto 50px auto;
+}
+h3{
+  color: #11999E;
+  font-family: 'Baloo Tamma 2', cursive;
+  margin:10px auto 10px auto;
+  font-size: 30px;
+
+}
+h2{
+  font-family:'Baloo Tamma 2',cursive;
+  color:#66BFBF;
+  margin:10px auto 10px auto;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+.top {
+
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  display:none;
+}
+
+.bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  display:none;
+}
+.C{
+  width:30%;
+}
+.SQL{
+  width:40%;
+}
+.Python{
+  width:50%
+}
+.Excel{
+  width:30%;
+}
+.HTML{
+  width:60%;
+}
+.pro {
+  text-decoration: underline;
+}
+.Cakewalk{
+  width:50%;
+}
+.bottom-cloud {
+  position: absolute;
+  right: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  left: 125px;
+}
+
+.skills{
+  margin:50px auto 100px auto;
+  width:50%;
+}
+
+.skill-row{
+  margin:20px auto 80px auto;
+}
