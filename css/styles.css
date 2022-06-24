@@ -3,28 +3,32 @@ div {
 }
 head{
   font-family: 'Baloo Tamma 2', cursive;
-  color: #11999E;
+}
+.mountain{
+  width: 80%;
+
 }
 body {
-  background-color: #B8C5D6;
+
   margin: 0;
   color:#66BFBF;
   text-align: center;
   font-family: 'Gochi Hand', cursive;
   font-size: 20px;
 }
-hr{
-  background-color: #B8C5D6;
-  border-color: gray;
-  border-style: dotted none none none;
-  border-width: 6px;
-  width: 10%;
-  height: 0px;
+.fence1{
+  border-im
+  width:10%;
+}
+.fence2{
 
+  background-repeat: repeat-x;
+  width:20%;
 }
 p{
-  color:#11999E;
+  color:#40514E;
   margin:10px auto 10px auto;
+
 }
 
 h1 {
@@ -42,67 +46,103 @@ h3{
 }
 h2{
   font-family:'Baloo Tamma 2',cursive;
-  color:#66BFBF;
+  color:#40514E;
   margin:10px auto 10px auto;
   font-weight: normal;
   font-size: 2.5rem;
 }
+.Cow{
+  position: absolute;
+  width:10%;
+  left:88%;
+  top:180%;
+}
+.Cow2{
+  position:absolute;
+  width: 8%;
+  left:10%;
+  top:75%;
+}
+.Cow3{
+  position:absolute;
+  width: 15%;
+  left:15%;
+}
 .top {
+background: -webkit-linear-gradient(270deg, #203164 0%, #D4DBF1 100%);
 
   position: relative;
   padding-top: 50px;
+  padding-bottom: 150px;
 }
-
-.middle {
-  background-color: red;
-  height: 200px;
-  width: 200px;
-  display:none;
+.bottom-container{
+  background-color: rgba(255,247,247,1);
 }
-
-.bottom {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
-  display:none;
+.middle-container{
+  background: -webkit-linear-gradient(bottom, rgba(255,247,247,1) 8%, rgba(3,126,19,1) 12%, rgba(5,245,37,1) 92%, rgba(212,219,241,1) 95%);
 }
 .C{
+  margin:auto 20px auto auto;
   width:30%;
+  float:left;
 }
 .SQL{
+  margin:auto auto auto 20px;
   width:40%;
+  float:right;
 }
 .Python{
-  width:50%
+  margin:auto 20px auto auto;
+  width:50%;
+  float:left;
 }
 .Excel{
+  margin:auto auto auto 20px;
   width:30%;
+  float:right;
 }
 .HTML{
-  width:60%;
+  margin:auto 20px auto auto;
+  width:40%;
+  float:left;
 }
 .pro {
   text-decoration: underline;
 }
 .Cakewalk{
+  margin:auto 20px auto auto;
   width:50%;
+  float:right;
 }
 .bottom-cloud {
   position: absolute;
-  right: 100px;
+  width: 20%;
+  left: 10%;
+}
+.middle-cloud{
+  position: absolute;
+  width:20%;
+  top: 140px;
+  left: 60%;
 }
 
 .top-cloud {
   position: absolute;
-  top: 50px;
-  left: 125px;
+  width:20%;
+  left: 30%;
 }
 
 .skills{
-  margin:50px auto 100px auto;
+  margin:80px auto 100px auto;
   width:50%;
 }
 
 .skill-row{
   margin:20px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-left{
+}
+.skill-right{}
 }
