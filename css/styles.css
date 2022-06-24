@@ -25,7 +25,7 @@ body {
 }
 
 .fence{
-background-image: url("CSS---My-Site/images/fence.png");
+background-image: url("./images/fence.png");
 background-size:contain;
 background-repeat: round;
   bottom: 55%;
@@ -37,7 +37,7 @@ background-repeat: round;
 
 }
 .fence2{
-  background-image: url("CSS---My-Site/images/fence.png");
+  background-image: url("./images/fence.png");
   background-size:contain;
   background-repeat: round;
   width:100%;
