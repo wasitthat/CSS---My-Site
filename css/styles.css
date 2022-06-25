@@ -54,9 +54,9 @@ background-repeat: round;
   font-family: 'Baloo Tamma 2', cursive;
   font-size:25px;
   margin:0;
-  bottom:80px;
-  position:relative;
-  background-color: transparent;
+  bottom: 0px;
+  position: relative;
+  background-color: rgba(255, 247, 247, 1);
 }
 p{
   color:white;
